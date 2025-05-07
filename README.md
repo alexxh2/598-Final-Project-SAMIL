@@ -1,7 +1,7 @@
-# SAMIL
-Code for the paper Detecting Heart Disease from Multi-View Ultrasound Images via Supervised Attention Multiple Instance Learning (MLHC'23)
-
 # Setup
+
+Install depenencies from requirements.txt
+
 ### Prepare datasets
 The AS diagnosis task in this study uses the view_and_diagnosis_labeled_set from TMED2 
 - Step1. Download TMED2, please visit https://TMED.cs.tufts.edu and follow the instruction.
