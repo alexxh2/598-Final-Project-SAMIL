@@ -1,14 +1,11 @@
 # Setup
 
-Install depenencies from requirements.txt
+Install dependencies from requirements.txt
 
 ### Prepare datasets
 The AS diagnosis task in this study uses the view_and_diagnosis_labeled_set from TMED2 
 - Step1. Download TMED2, please visit https://TMED.cs.tufts.edu and follow the instruction.
 - Step2. Put the labeled and unlabeled image for the same study under same folder
-
-### Install Anaconda
-Follow the instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 
 ### Environment
 pytorch 1.11.0
